@@ -14,6 +14,7 @@ Consumiremos la API de TheMovie, en concretolas películas más populares, para 
 
 - gitclone del repositorio
 - composer update para traer las libreria necesarias
+- Renombrar env.example a .env
 - Poner en el archivo .env nuestra api-key
 ```sh
 git clone https://github.com/pacofer71/webservicemovies242022.git
